@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Sundar! 👋
+💻 **Software Developer** | 🚀 Passionate about development and contributions | 🔍 Problem Solver  
+📍 Chennai, India  
 
-<!--
-**IamSundarN18/IamSundarN18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Currently working on: **DevJobs API**
+- 📚 Learning: **React.js**
+- 🤝 Open to collaborations in **Java, MERN Stack & Open Source**
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=IamSundarN18&color=blue)  
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundarn18)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/IamSundarN18)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSundarN18&show_icons=true&theme=radical)
+
+### 🚀 Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=flat&logo=mysql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamSundarN18&theme=dark)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=IamSundarN18&theme=onedark)
+
