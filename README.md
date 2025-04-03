@@ -25,9 +25,4 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamSundarN18&theme=dark)](https://git.io/streak-stats)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=IamSundarN18&theme=onedark)
 
